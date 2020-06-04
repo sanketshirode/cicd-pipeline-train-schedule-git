@@ -5,7 +5,7 @@ $(document).ready(function() {
   populateTrains();
 
 });
-
+//adding tag
 function populateTrains() {
   var trainsContent = '';
 
